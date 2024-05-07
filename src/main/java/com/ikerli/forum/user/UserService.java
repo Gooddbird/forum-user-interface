@@ -9,7 +9,7 @@ public interface UserService {
 
     /**
      * 注册用户
-     * @param request
+     * @param request qq
      * @return
      */
     RegisterResponse register(RegisterRequest request);
